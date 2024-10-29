@@ -1,11 +1,12 @@
 import React from 'react'
-import Accodion from './Components/Accordion'
+import Accordion from './Components/Accordion';
+
 
 const App = () => {
   return (
     <div className=''>
       {/* Accodion Components */}
-      <Accodion />
+      <Accordion />
     </div>
   )
 }
